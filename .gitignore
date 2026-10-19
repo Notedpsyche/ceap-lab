@@ -1,0 +1,7 @@
+.venv/
+.python/
+.bin/
+__pycache__/
+.pytest_cache/
+data/
+test-results/
